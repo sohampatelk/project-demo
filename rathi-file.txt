@@ -6,5 +6,3 @@ theb create a branch by yourself
 git branch branch name
 git checkout branch branch name
 
-get back to checkout master
-git merge

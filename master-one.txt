@@ -8,7 +8,17 @@ hello
 assdv
 sdvs
 vsv
+<<<<<<< HEAD
 
 
 
 this is changed by rathi when i am in the master branch.
+=======
+fv
+f
+d
+fg
+
+what you have done 
+please confirm
+>>>>>>> branch-rathi

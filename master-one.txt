@@ -19,6 +19,11 @@ f
 d
 fg
 
+<<<<<<< HEAD
+Aidarus added a line here
+=======
+
 what you have done 
 please confirm
 >>>>>>> branch-rathi
+>>>>>>> 27cb7a116d3da98e16ce89c794da2f500f8ad098

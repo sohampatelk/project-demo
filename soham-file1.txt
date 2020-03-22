@@ -1,11 +1,16 @@
 Hello I am in branch soham.
-<<<<<<< HEAD
+
 
 
 aidarus added something here
-=======
+
 this is file num one in soham branch
 
 oh ya got it 
-thanks for guiding 
->>>>>>> 27cb7a116d3da98e16ce89c794da2f500f8ad098
+t
+
+
+I have some changes on march22
+please merge the pull request
+
+

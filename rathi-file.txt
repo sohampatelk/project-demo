@@ -5,6 +5,11 @@ git pull origin master
 theb create a branch by yourself
 git branch branch name
 git checkout branch branch name
+git add -A
+git commit -m "Added by  branch-rathi"
+
+git push -u origin branch-rathi
+
 once you made all the changes get back to the origin master
 git push the changes 
 to the branch

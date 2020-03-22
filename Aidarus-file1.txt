@@ -1,3 +1,8 @@
 Hello there 
 This is where this begins
+<<<<<<< HEAD
 jjhhhhgit 
+=======
+jjhhhhgit git 
+i have some changes in the file now i am going to update to the branch 
+>>>>>>> 4f5633d6c89e6e2aa97928bca1adeb9f1080e0d1

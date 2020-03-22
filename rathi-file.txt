@@ -10,3 +10,7 @@ git commit -m "Added by  branch-rathi"
 
 git push -u origin branch-rathi
 
+once you made all the changes get back to the origin master
+git push the changes 
+to the branch
+
